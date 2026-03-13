@@ -7,7 +7,7 @@ I am a 19-years old girl, who loves art and have a lot of hobbies such as croche
 
 **Started**: 14/03/2026
 **Role**: Software Developer
-**Hobbies**: Crochet, Reading and Painting
+**Hobbies**: Crochet, Reading, Scrapbook and Painting
 
 |Likes|Dislikes|
 |-----|---------|
